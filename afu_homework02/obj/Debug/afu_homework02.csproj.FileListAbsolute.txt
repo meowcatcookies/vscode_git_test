@@ -1,0 +1,14 @@
+D:\CS\afu_homework01\afu_homework02\bin\Debug\afu_homework02.exe.config
+D:\CS\afu_homework01\afu_homework02\bin\Debug\afu_homework02.exe
+D:\CS\afu_homework01\afu_homework02\bin\Debug\afu_homework02.pdb
+D:\CS\afu_homework01\afu_homework02\obj\Debug\afu_homework02.csproj.AssemblyReference.cache
+D:\CS\afu_homework01\afu_homework02\obj\Debug\afu_homework02.csproj.CoreCompileInputs.cache
+D:\CS\afu_homework01\afu_homework02\obj\Debug\afu_homework02.exe
+D:\CS\afu_homework01\afu_homework02\obj\Debug\afu_homework02.pdb
+D:\JOE coding\C#\afu_homework02\bin\Debug\afu_homework02.exe.config
+D:\JOE coding\C#\afu_homework02\bin\Debug\afu_homework02.exe
+D:\JOE coding\C#\afu_homework02\bin\Debug\afu_homework02.pdb
+D:\JOE coding\C#\afu_homework02\obj\Debug\afu_homework02.csproj.AssemblyReference.cache
+D:\JOE coding\C#\afu_homework02\obj\Debug\afu_homework02.csproj.CoreCompileInputs.cache
+D:\JOE coding\C#\afu_homework02\obj\Debug\afu_homework02.exe
+D:\JOE coding\C#\afu_homework02\obj\Debug\afu_homework02.pdb
